@@ -13,13 +13,20 @@ This is the code repository for the paper -- Hierarchical Multimodality Graph Re
 ```
 
 # Install
-If you are not using Linux, do not proceed.
+If you are not using Linux, do not proceed. It is recommended to use an RTX3090 GPU or a higher-computing GPU to train the test code and store the data on an SSD.
 
 1. Clone this repository and navigate to TGRS folder.
 ```bash
 git clone https://github.com/Komi-Wang/TGRS.git
 cd TGRS
 ```
+
 2. Install Package
+```bash
+conda create -n rsvqa python=3.10
+conda activate rsvqa
+```
+
+# 
 
 
