@@ -13,7 +13,7 @@ This is the code repository for the paper -- Hierarchical Multimodality Graph Re
 ```
 
 # Install
-If you are not using Linux, do not proceed. It is recommended to use an RTX3090 GPU or a higher-computing GPU to train the test code and store the data on an SSD.
+If you are not using Linux, do not proceed. It is recommended to use four RTX3090 GPUs or higher-computing GPUs to train the model and store the training and test data on at least 50GB SSD. Note that the CUDA version in our runtime environment is 11.8. If it does not match your system environment, please refer to the [Pytorch documentation](https://pytorch.org/get-started/previous-versions/) and select the appropriate version.
 
 1. Clone this repository and navigate to TGRS folder.
 ```bash
