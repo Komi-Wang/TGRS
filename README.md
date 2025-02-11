@@ -15,10 +15,11 @@ This is the code repository for the paper -- Hierarchical Multimodality Graph Re
 # Install
 If you are not using Linux, do not proceed.
 
-1. Clone this repository and navigate to TGRS folder
+1. Clone this repository and navigate to TGRS folder.
 ```bash
-git clone https://github.com/opendatalab/MinerU-LVLM.git
-cd MinerU-LVLM
+git clone https://github.com/Komi-Wang/TGRS.git
+cd TGRS
 ```
+2. Install Package
 
 
