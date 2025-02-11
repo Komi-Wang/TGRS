@@ -26,6 +26,7 @@ cd TGRS
 ```bash
 conda create -n rsvqa python=3.10
 conda activate rsvqa
+conda env create -f environment.yml
 ```
 
 ## Data preparation
