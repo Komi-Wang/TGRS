@@ -30,6 +30,6 @@ conda env create -f environment.yml
 ```
 
 ## Data preparation
-In this paper, we use three mainstream datasets in the field of remote sensing visual question answering (RSVQA). They are, respectively, the [high-resolution](https://zenodo.org/records/6344367) dataset and the [low-resolution](https://zenodo.org/records/6344334) dataset. Among them, the high resolution dataset can be divided into two versions -- v1 and v2.
+In this paper, we use three mainstream datasets in the field of remote sensing visual question answering (RSVQA). They are, respectively, the [high-resolution](https://zenodo.org/records/6344367) dataset and the [low-resolution](https://zenodo.org/records/6344334) dataset. Among them, the high resolution dataset can be divided into two versions -- v1 and v2. Before the training starts, you need to download the required data to the specified directory and extract the zip files.
 
 
